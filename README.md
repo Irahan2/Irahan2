@@ -1,4 +1,4 @@
- ![MasterHead](https://images.ctfassets.net/17si5cpawjzf/3JTBRCg0ueXJIwKJlyIqWu/c524988ee4382594b916206c7c0a5d5a/pcb-with-ic-render-blue-is000020580581-tc-1200x600.jpg)
+ ![MasterHead](https://www.raypcb.com/wp-content/uploads/2023/11/PCB-Solutions.jpg)
 <h1 align="center">Hi 👋, I'm Caner Olcay</h1>
 <h3 align="center">An aspiring embedded systems engineer and PCB design enthusiast</h3>
 
