@@ -15,7 +15,7 @@ I am an **Electronic and Computer Engineering student** at Wrocław University o
 ## 🚀 Featured Projects  
 ✅ **[AI-Powered Parking Detection](https://github.com/Irahan2/Parking-Detection-System)** – YOLOv8 & OpenCV-based real-time parking analysis  
 ✅ **[Pulse Oximeter Design](https://github.com/Irahan2/Pulse-Oximeter)** – STM32 & MAX30102-based non-invasive health monitoring  
-✅ **[Remotely Controlled Tracked Robot](https://github.com/Irahan2/Remotely-Controlled-Tracked-Mobile-Platform)** – ESP32 & WebSockets for real-time robot control  
+✅ **[Remotely Controlled Mobile Tracked Platform](https://github.com/Irahan2/Remotely-Controlled-Tracked-Mobile-Platform)** – ESP32 & WebSockets for real-time robot control  
 
 ## 📫 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/caner-olcay-bb3760257/)  
