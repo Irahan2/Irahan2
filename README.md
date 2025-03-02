@@ -25,10 +25,6 @@ I specialize in **hardware-software integration**, focusing on **AI-driven appli
 
 ---
 
-Bu haliyle tüm linkler doğru çalışıyor. 🎯 🚀 GitHub README'nde kullanabilirsin! 
-
----
-
 ## 🔗 Let's Connect!  
 
 📌 **GitHub** → [github.com/Irahan2](https://github.com/Irahan2)  
