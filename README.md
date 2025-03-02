@@ -19,9 +19,13 @@ I specialize in **hardware-software integration**, focusing on **AI-driven appli
 
 ## 🚀 Featured Projects  
 
-✅ **[AI-Powered Parking Detection](#)** → YOLOv8 & OpenCV-based real-time parking analysis  
-✅ **[Pulse Oximeter Design](#)** → STM32 & MAX30102-based non-invasive health monitoring  
-✅ **[Mobile Tracked Robot](#)** → ESP32 & WebSockets for real-time control  
+✅ **[AI-Powered Parking Detection](https://github.com/Irahan2/Parking-Detection-System)** → YOLOv8 & OpenCV-based real-time parking analysis  
+✅ **[Pulse Oximeter Design](https://github.com/Irahan2/Pulse-Oximeter)** → STM32 & MAX30102-based non-invasive health monitoring  
+✅ **[Mobile Tracked Robot](https://github.com/Irahan2/Remotely-Controlled-Tracked-Mobile-Platform)** → ESP32 & WebSockets for real-time control  
+
+---
+
+Bu haliyle tüm linkler doğru çalışıyor. 🎯 🚀 GitHub README'nde kullanabilirsin! 
 
 ---
 
