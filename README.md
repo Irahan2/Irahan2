@@ -10,7 +10,7 @@ I specialize in **hardware-software integration**, focusing on **AI-driven appli
 
 🔹 **Embedded Systems** → STM32, ESP32, ARM Cortex, RTOS, ROS  
 🔹 **Hardware Design** → PCB Design (Altium, KiCad), Digital & Analog Circuits  
-🔹 **Programming** → C, Python  
+🔹 **Programming** → C , C++ , Python  
 🔹 **AI & Computer Vision** → YOLO, OpenCV  
 🔹 **Communication Protocols** → I2C, SPI, UART  
 🔹 **Robotics & Automation** → Real-Time Systems, WebSockets  
