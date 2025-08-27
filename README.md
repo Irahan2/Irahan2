@@ -18,26 +18,23 @@ I share my projects and resources here to help others learn and to showcase my g
 ### 🧰 Tech I use
 
 **Programming & Scripting**  
-- Python, C++, C  
+Python, C++, C  
 
 **Machine Learning & AI**  
-- PyTorch, TensorFlow, scikit-learn  
-- YOLOv8, MiDaS, OpenCV, Open3D  
+PyTorch, TensorFlow, scikit-learn, YOLOv8, MiDaS, OpenCV, Open3D  
 
 **Data Science & Analysis**  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Data Preprocessing, Feature Engineering, Model Evaluation  
-- Statistical Analysis, Probability & Linear Algebra applications  
+NumPy, Pandas, Matplotlib, Seaborn  
+Data preprocessing, feature engineering & model evaluation  
 
 **Software Tools & Frameworks**  
-- Jupyter Notebook, VS Code, Git/GitHub  
-- Docker (basics), FastAPI (for ML deployment)  
+Jupyter Notebook, VS Code, Git/GitHub  
+FastAPI, Docker (basics)  
 
 **Specialized Topics**  
-- Computer Vision (Object Detection, Depth Estimation, 3D Reconstruction)  
-- Model Optimization & Inference Acceleration  
-- Data Visualization (2D & 3D, interactive plots)  
-
+Computer Vision (Object Detection, Depth Estimation, 3D Reconstruction)  
+Model optimization & efficient inference  
+2D & 3D Data Visualization  
 
 ---
 
@@ -52,10 +49,6 @@ I share my projects and resources here to help others learn and to showcase my g
   Step-by-step notebooks (NumPy → Pandas → Visualization → Preprocessing → End-to-End Project).  
   A practical ML learning resource that is **continuously updated**.  
 
----
-
-### 📫 Connect
-- LinkedIn: [linkedin.com/in/caner-olcay-bb3760257](https://www.linkedin.com/in/caner-olcay-bb3760257/)  
-- GitHub: [github.com/Irahan2](https://github.com/Irahan2)  
+--- 
 
 > If any of these projects help you, a ⭐ on the repo means a lot!
