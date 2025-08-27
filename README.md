@@ -1,32 +1,61 @@
-# 👋 Hi, I'm Caner  
+# 👋 Hi, I'm Caner
 
-🚀 **Engineering Student | Passionate About AI, Embedded Systems & Robotics**  
+An **Engineering Student** passionate about **AI, Machine Learning, and Intelligent Systems**.  
+I enjoy combining theory with hands-on projects, from data-driven applications to practical implementations that bridge research and real-world impact.  
 
-I specialize in **hardware-software integration**, focusing on **AI-driven applications, embedded systems, and PCB design**. I love building smart, scalable solutions that bridge the gap between electronics and software.  
-
----
-
-## 🔧 Skills & Technologies  
-
-🔹 **Embedded Systems** → STM32, ESP32, ARM Cortex, RTOS, ROS  
-🔹 **Hardware Design** → PCB Design (Altium, KiCad), Digital & Analog Circuits  
-🔹 **Programming** → C , C++ , Python  
-🔹 **AI & Computer Vision** → YOLO, OpenCV  
-🔹 **Communication Protocols** → I2C, SPI, UART  
-🔹 **Robotics & Automation** → Real-Time Systems, WebSockets  
+I share my projects and resources here to help others learn and to showcase my growth in the field.
 
 ---
 
-## 🚀 Featured Projects  
-
-✅ **[AI-Powered Parking Detection](https://github.com/Irahan2/Parking-Detection-System)** → YOLOv8 & OpenCV-based real-time parking analysis  
-✅ **[Pulse Oximeter Design](https://github.com/Irahan2/Pulse-Oximeter)** → STM32 & MAX30102-based non-invasive health monitoring  
-✅ **[Mobile Tracked Robot](https://github.com/Irahan2/Remotely-Controlled-Tracked-Mobile-Platform)** → ESP32 & WebSockets for real-time control  
+### 🔭 What I’m working on
+- Exploring **Machine Learning & AI** across multiple domains (vision, data science, automation)  
+- Developing **end-to-end ML pipelines**: preprocessing → training → evaluation → deployment  
+- Building **real-time and scalable systems** that connect software with practical applications  
+- Continuously learning and experimenting with new tools, frameworks, and methods  
 
 ---
 
-## 🔗 Let's Connect!  
+### 🧰 Tech I use
 
-📌 **GitHub** → [github.com/Irahan2](https://github.com/Irahan2)  
-📌 **LinkedIn** → [linkedin.com/in/caner-olcay](https://www.linkedin.com/in/caner-olcay)  
-📌 **Email** → [canerolcay2002@hotmail.com](mailto:canerolcay2002@hotmail.com)  
+**Programming & Scripting**  
+- Python, C++, C  
+
+**Machine Learning & AI**  
+- PyTorch, TensorFlow, scikit-learn  
+- YOLOv8, MiDaS, OpenCV, Open3D  
+
+**Data Science & Analysis**  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Data Preprocessing, Feature Engineering, Model Evaluation  
+- Statistical Analysis, Probability & Linear Algebra applications  
+
+**Software Tools & Frameworks**  
+- Jupyter Notebook, VS Code, Git/GitHub  
+- Docker (basics), FastAPI (for ML deployment)  
+
+**Specialized Topics**  
+- Computer Vision (Object Detection, Depth Estimation, 3D Reconstruction)  
+- Model Optimization & Inference Acceleration  
+- Data Visualization (2D & 3D, interactive plots)  
+
+
+---
+
+### 🌟 Featured Projects
+- **[NeuroPark – 3D Vehicle Detection & Depth Estimation](https://github.com/Irahan2/NeuroPark-3D-Vehicle-Detection)**  
+  Real-time vehicle detection (YOLOv8) + monocular depth (MiDaS) + calibration → **3D bounding boxes on point clouds**  
+
+- **[Parking Detection System](https://github.com/Irahan2/Parking-Detection-System)**  
+  YOLO + OpenCV system to detect parked vehicles and **count free/occupied slots** with threshold alerts  
+
+- **[Machine Learning Roadmap](https://github.com/Irahan2/ml-roadmap)**  
+  Step-by-step notebooks (NumPy → Pandas → Visualization → Preprocessing → End-to-End Project).  
+  A practical ML learning resource that is **continuously updated**.  
+
+---
+
+### 📫 Connect
+- LinkedIn: [linkedin.com/in/caner-olcay-bb3760257](https://www.linkedin.com/in/caner-olcay-bb3760257/)  
+- GitHub: [github.com/Irahan2](https://github.com/Irahan2)  
+
+> If any of these projects help you, a ⭐ on the repo means a lot!
