@@ -15,26 +15,6 @@ I share my projects and resources here to help others learn and to showcase my g
 
 ---
 
-### 🧰 Tech I use
-
-**Programming & Scripting**  
-Python, C++, C  
-
-**Machine Learning & AI**  
-PyTorch, TensorFlow, scikit-learn, YOLOv8, MiDaS, OpenCV, Open3D  
-
-**Data Science & Analysis**  
-NumPy, Pandas, Matplotlib, Seaborn  
-Data preprocessing, feature engineering & model evaluation  
-
-**Software Tools & Frameworks**  
-Jupyter Notebook, VS Code, Git/GitHub  
-FastAPI, Docker (basics)  
-
-**Specialized Topics**  
-Computer Vision (Object Detection, Depth Estimation, 3D Reconstruction)  
-Model optimization & efficient inference  
-2D & 3D Data Visualization  
 
 ---
 
