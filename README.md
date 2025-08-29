@@ -15,9 +15,6 @@ I share my projects and resources here to help others learn and to showcase my g
 
 ---
 
-
----
-
 ### 🌟 Featured Projects
 - **[NeuroPark – 3D Vehicle Detection & Depth Estimation](https://github.com/Irahan2/NeuroPark-3D-Vehicle-Detection)**  
   Real-time vehicle detection (YOLOv8) + monocular depth (MiDaS) + calibration → **3D bounding boxes on point clouds**  
