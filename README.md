@@ -11,4 +11,5 @@ I work across the full ML lifecycle — from data processing and modeling to dep
 - Production ML backends (FastAPI, vector databases)
 
 🌐 Website: https://canerolcay.com
+
 📍 Wrocław, Poland
