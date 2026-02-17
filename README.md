@@ -1,23 +1,14 @@
-# 👋 Hey, I'm Caner  
+# 👋 Hi, I'm Caner Olcay
 
-I'm an **AI & ML Engineer** exploring the full path from  
-**data processing & statistics → machine learning models → applied & generative AI systems**  
-(computer vision, LLMs, LangChain, RAG, and autonomous AI agents).  
+Machine Learning Engineer passionate about building real-world AI systems.
 
----
+I work across the full ML lifecycle — from data processing and modeling to deployment and evaluation — with experience in:
 
-## 🔧 What I’m working on  
+- Data Science & Statistical Modeling
+- Deep Learning & Computer Vision
+- LLM-based systems & RAG architectures
+- Time-series forecasting
+- Production ML backends (FastAPI, vector databases)
 
-- 🧩 **Data & SQL** — preprocessing, analysis, and data pipelines  
-- 🧠 **Machine Learning** — classical ML, statistical modeling, and end-to-end systems  
-- 🚀 **Applied AI** — computer vision, YOLOv8, Open3D, image & depth processing  
-- 🤖 **Generative AI** — LangChain, RAG pipelines, Pinecone, OpenAI API, and autonomous agents  
-- ☁️ **MLOps & Deployment** — Docker, AWS EC2, CI/CD integration  
-
----
-
-### 💬 About me  
-Always learning, experimenting, and building **real-world AI systems** that connect  
-**data, machine learning, and generative intelligence** into production-ready solutions.  
-
-🔗 Explore my projects: [github.com/Irahan2](https://github.com/Irahan2)
+🌐 Website: https://canerolcay.com
+📍 Wrocław, Poland
