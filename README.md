@@ -22,8 +22,5 @@ I focus on turning technical ideas into useful systems — from REST APIs, authe
 - **NeuroPark — 3D Vehicle Detection**  
   Object detection, depth estimation, and 3D scene reconstruction from traffic images.
 
-- **TensoCast — Traffic Forecasting**  
-  Forecasting experiments using tensor decomposition, LSTM, XGBoost, and time-series modeling.
-
 🌐 [canerolcay.com](https://canerolcay.com)  
 📍 Wrocław, Poland
