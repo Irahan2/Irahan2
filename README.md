@@ -2,7 +2,7 @@
 
 Software / AI Engineer building backend services and LLM-powered systems with Python and FastAPI — REST APIs, RAG and semantic search, OCR pipelines, vector and graph databases.
 
-Finishing my B.Eng. in Electronics & Computer Engineering at Wrocław University of Science and Technology (thesis defense: July 2026).
+Finishing my B.Eng. in Electronics & Computer Engineering at Wrocław University of Science and Technology
 
 ## What I build
 
