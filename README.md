@@ -13,7 +13,7 @@ Finishing my B.Eng. in Electronics & Computer Engineering at Wrocław University
 
 ## Featured projects
 
-- **[Lucid — AI Notes Platform](https://testflight.apple.com/join/pXFmrHKh)** 📱 *live in App Store beta*
+- **[Lucid — AI Notes Platform](https://uselucid.app )** 📱 *live in App Store beta*
   FastAPI backend with 20+ REST endpoints (OCR upload, semantic search, AI Q&A, flashcards, quizzes), covered by 200+ unit and integration tests. Pipeline: Google Vision OCR → OpenAI embeddings → pgvector (HNSW) → LLM answers.
 
 - **[Knowledge Graph RAG / ToPWR](https://github.com/Solvro/ml-mcp)**
